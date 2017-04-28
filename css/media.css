@@ -1,0 +1,35 @@
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+  	.site-name {
+  		font-size: 16px;
+  	}
+
+  	.nav-menu ul {
+  		padding: 0;
+  	}
+
+  	.nav-menu li {
+  		font-size: 8px;
+  	}
+
+  	.hero {
+  		padding: 10px;
+  	}
+
+  	.view .mask {
+  		padding: 0;
+  		display: block;
+  	}
+
+  	.work-button {
+  		width: 100%;
+  	}
+
+    .mask {
+      min-height: 
+    }
+
+}
+
